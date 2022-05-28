@@ -5,4 +5,4 @@ Giving person, always trying to help and improve as professional.
 
 In my years of experience I became in love with computers, since I had 7~8 years, it became my addiction. Nowdays I try to make my life around Frontend Developing.
 
-Linkedin: [https://](https://www.linkedin.com/in/ernaniavila/)
+[Linkedin](https://www.linkedin.com/in/ernaniavila/)
