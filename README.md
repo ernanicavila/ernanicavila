@@ -1,13 +1,14 @@
 ### About Me
-<p align-items='center'>
+
 Hi, my name is Ernani Ávila!
+  
 Working with Javascript, React/NextJs, ChakraUI, Formik and Yup and Cypress, deploying projects with Vercel.
 
 I'm the kind of person that like to chat and learn, doesn't matter how difficult it can be, challenges are always good with the proper teaching. 
 Giving person, always trying to help and improve as professional.
 
 In my years of experience I became in love with computers, since I had 7~8 years, it became my addiction. Nowdays I try to make my life around Frontend Developing.
-</p>
+
 
 ### Social Media
 <p align="left">
@@ -27,4 +28,8 @@ In my years of experience I became in love with computers, since I had 7~8 years
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernanicavila&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernanicavila&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernanicavila&theme=dark" alt="ernanicavila" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernanicavila&theme=dark&layout=compact)
+
+
