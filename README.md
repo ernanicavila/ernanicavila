@@ -6,7 +6,7 @@ Hi, my name is Ernani Ávila!
   
   Pleno Frontend Developer | Mid Level Frontend
   
-Working with Javascript, React/NextJs, ChakraUI, Formik and Yup and Cypress, deploying projects with Vercel.
+Working with Javascript, React/NextJs, ChakraUI, Formik, Yup and Cypress, deploying projects with Vercel.
 
 I'm the kind of person that like to chat and learn, doesn't matter how difficult it can be, challenges are always good with the proper teaching. 
 Giving person, always trying to help and improve as professional.
