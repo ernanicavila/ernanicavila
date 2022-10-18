@@ -71,6 +71,7 @@ In my years of experience I became in love with computers, since I had 7~8 years
  <br /> <br />
  
  
+ 
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
