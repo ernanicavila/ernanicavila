@@ -15,8 +15,8 @@ In my years of experience I became in love with computers, since I had 7~8 years
 
 ### Social Media
 <p align="center">
-<a href="https://linkedin.com/in/ernaniavila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernaniavila" height="30" width="40" /></a>
-<a href="https://instagram.com/tiuhiikou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiuhiikou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ernaniavila" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernaniavila" height="30" width="40" /></a>
+<a href="https://instagram.com/tiuhiikou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiuhiikou" height="30" width="40" /></a>
 </p>
 
  <br /> <br />
