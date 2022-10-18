@@ -35,15 +35,47 @@ In my years of experience I became in love with computers, since I had 7~8 years
  <br /> <br />
 ### Statistics
   
+<table>
+				<tr>
+					<td width="50%" align="center" vertical-align="middle">
+						<img
+							height="200em"
+							align="center"
+							src="https://github-readme-streak-stats.herokuapp.com/?user=ernanicavila&theme=dark"
+							alt="ernanicavila"
+						/>
+					</td>
+					<td width="50%" align="center" vertical-align="middle">
+						<img
+							heigth="200em"
+							align="center"
+							src="https://github-readme-stats.vercel.app/api?username=ernanicavila&show_icons=true&theme=dark"
+						/>
+					</td>
+				</tr>
+			</table>
+		<table>
+				<tr>
+					<td width="50%" align="center" vertical-align="middle">
+						<img
+							height="200em"
+							align="center"
+							src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanicavila&theme=dark&layout=compact"
+						/>
+					</td>
+				</tr>
+			</table>
 
-<img heigth="200em" align="center" src='https://github-readme-stats.vercel.app/api?username=ernanicavila&show_icons=true&theme=dark' />
-  <br />
-   <br />
-<img height="200em"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernanicavila&theme=dark" alt="ernanicavila" />
-   <br /> <br />
   
-<img height="200em" align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ernanicavila&theme=dark&layout=compact' />
+
 
  <br /> <br />
+ 
+ 
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/ernanicavila/count.svg)
+
 
 </div>
