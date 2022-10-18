@@ -41,11 +41,10 @@ In my years of experience I became in love with computers, since I had 7~8 years
 
 ### Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernanicavila&show_icons=true&theme=dark)
+<div><img heigth="200em" align="center" src='https://github-readme-stats.vercel.app/api?username=ernanicavila&show_icons=true&theme=dark' /></div>
+<div><img height="200em"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernanicavila&theme=dark" alt="ernanicavila" /></div>
+<p><img height="200em" align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ernanicavila&theme=dark&layout=compact' /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ernanicavila&theme=dark" alt="ernanicavila" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernanicavila&theme=dark&layout=compact)
 
 
 </div>
