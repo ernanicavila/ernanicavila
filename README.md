@@ -6,12 +6,17 @@ Hi, my name is Ernani Ávila!
   
   Pleno Frontend Developer | Mid Level Frontend
   
-Working with Javascript, React/NextJs, ChakraUI, Formik, Yup and Cypress, deploying projects with Vercel.
+Started to work as a Front end Developer in 2018, using technologies as HTML, CSS and Javascript. I dived deep into React making it my base Framework to work with, using NextJs and ReactJs.
 
-I'm the kind of person that like to chat and learn, doesn't matter how difficult it can be, challenges are always good with the proper teaching. 
-Giving person, always trying to help and improve as professional.
+I already worked as a freelancer using Wordpress, created insitutional aplications using NextJs with ChakraUI, worked in a RH Tech with NextJs, ReactJs, ChakraUI, React Query, Axios etc...
 
-In my years of experience I became in love with computers, since I had 7~8 years, it became my addiction. Nowdays I try to make my life around Frontend Developing.
+With my interaction skills, I managed to lead a team in moments that was needed.
+
+I decided to study on Trybe to perfect some skills that I was lacking in order to growth my curriculum, knowledge is power, right?
+
+My current focus is Backend in order to become a Fullstack.
+
+If you're looking for a professional with the qualifications above, send me a messege, if i'm not compatible, I can point someone that I trust.
  <br /> <br />
 
 # Social Media
