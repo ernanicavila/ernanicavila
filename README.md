@@ -16,7 +16,7 @@ I decided to study on Trybe to perfect some skills that I was lacking in order t
 
 My current focus is Backend in order to become a Fullstack.
 
-If you're looking for a professional with the qualifications above, send me a messege, if i'm not compatible, I can point someone that I trust.
+If you're looking for a professional with the qualifications above, send me a message, if i'm not compatible, I can point someone that I trust.
  <br /> <br />
 
 # Social Media
