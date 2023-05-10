@@ -1,6 +1,6 @@
-<div   align='center'>
+<div align='center'>
 
-# About Me
+# Hi, I'm Ernani! 🇧🇷
 
 I'm a Front End Developer with experience dating back to 2018. My expertise lies in technologies such as HTML, CSS, and JavaScript, and I have a deep understanding of React, with Next.js and React.js as my preferred frameworks.
 
