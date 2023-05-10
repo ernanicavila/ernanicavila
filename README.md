@@ -2,14 +2,11 @@
 
 # Hi, I'm Ernani! 🇧🇷
 
-I'm a Front End Developer with experience dating back to 2018. My expertise lies in technologies such as HTML, CSS, and JavaScript, and I have a deep understanding of React, with Next.js and React.js as my preferred frameworks.
-
-As a freelancer, I have successfully worked on projects using WordPress and created institutional applications using Next.js with Chakra UI. I have also been involved in RH Tech projects, utilizing technologies like Next.js, React.js, Chakra UI, React Query, Axios, and more.
-
-With strong interpersonal skills, I have been able to lead teams when required. I believe in continuous learning and have recently pursued additional studies at Trybe to enhance my skill set and further strengthen my resume, as knowledge is power, right?
-
-Currently, my focus is on Backend development, as I strive to become a Fullstack Developer. If you are seeking a professional with the qualifications mentioned above, feel free to send me a message. If I am not the right fit for your requirements, I would be happy to recommend someone from my trusted network. Let's connect and explore potential opportunities!
- <br /> <br />
+I'm an experienced **Front-end Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Next.js**. I've successfully worked on WordPress projects, created institutional applications using **Next.js** with **Chakra UI**, and contributed to **HR Tech** projects utilizing several technologies. I've also demonstrated strong leadership skills and continuously pursue learning opportunities. Currently, I'm focusing on becoming a Fullstack Developer. Contact me for professional qualifications or recommendations from my network. Let's connect and explore potential opportunities!
+ <br />
+	 <br />
+	Email: ernanicavilaneto@gmail.com
+	<br />
 
 # Social Media
 <p align="center">
@@ -76,5 +73,5 @@ Currently, my focus is on Backend development, as I strive to become a Fullstack
 
 ![Visitor Count](https://profile-counter.glitch.me/ernanicavila/count.svg)
 
-Email: ernanicavilaneto@gmail.com
+
 </div>
