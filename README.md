@@ -2,21 +2,13 @@
 
 # About Me
 
-Hi, my name is Ernani Ávila!
-  
-  Pleno Frontend Developer | Mid Level Frontend
-  
-Started to work as a Front end Developer in 2018, using technologies as HTML, CSS and Javascript. I dived deep into React making it my base Framework to work with, using NextJs and ReactJs.
+I'm a Front End Developer with experience dating back to 2018. My expertise lies in technologies such as HTML, CSS, and JavaScript, and I have a deep understanding of React, with Next.js and React.js as my preferred frameworks.
 
-I already worked as a freelancer using Wordpress, created insitutional aplications using NextJs with ChakraUI, worked in a RH Tech with NextJs, ReactJs, ChakraUI, React Query, Axios etc...
+As a freelancer, I have successfully worked on projects using WordPress and created institutional applications using Next.js with Chakra UI. I have also been involved in RH Tech projects, utilizing technologies like Next.js, React.js, Chakra UI, React Query, Axios, and more.
 
-With my interaction skills, I managed to lead a team in moments that was needed.
+With strong interpersonal skills, I have been able to lead teams when required. I believe in continuous learning and have recently pursued additional studies at Trybe to enhance my skill set and further strengthen my resume, as knowledge is power, right?
 
-I decided to study on Trybe to perfect some skills that I was lacking in order to growth my curriculum, knowledge is power, right?
-
-My current focus is Backend in order to become a Fullstack.
-
-If you're looking for a professional with the qualifications above, send me a message, if i'm not compatible, I can point someone that I trust.
+Currently, my focus is on Backend development, as I strive to become a Fullstack Developer. If you are seeking a professional with the qualifications mentioned above, feel free to send me a message. If I am not the right fit for your requirements, I would be happy to recommend someone from my trusted network. Let's connect and explore potential opportunities!
  <br /> <br />
 
 # Social Media
@@ -30,12 +22,14 @@ If you're looking for a professional with the qualifications above, send me a me
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
  <br /> <br />
 # Statistics
   
