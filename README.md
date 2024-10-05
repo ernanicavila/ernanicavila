@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Hi, I'm Ernani! 🇧🇷
+# Hi, I'm Ernani!
 
 I'm an experienced **Front-end Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, and **Next.js**. I've successfully worked on WordPress projects, created institutional applications using **Next.js** with **Chakra UI**, and contributed to **HR Tech** projects utilizing several technologies. I've also demonstrated strong leadership skills and continuously pursue learning opportunities. Currently, I'm focusing on becoming a Fullstack Developer. Contact me for professional qualifications or recommendations from my network. Let's connect and explore potential opportunities!
  <br />
